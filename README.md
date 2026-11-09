@@ -1,4 +1,4 @@
-# Zenvest — Financial Clarity
+# Genvest — Financial Clarity
 
 A comprehensive wealth management and investment advisory platform comprising a high-performance **FastAPI backend** and a multi-platform **Flutter frontend**.
 
